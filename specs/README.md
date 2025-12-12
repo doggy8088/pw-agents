@@ -11,7 +11,7 @@
   - `playwright-test-generator`：依測試計畫與種子檔產生 Playwright 測試。
   - `playwright-test-healer`：自動修復失敗的 Playwright 測試。
 - `specs/`：放置測試計畫的 Markdown。
-- `specs/seed.spec.ts`：範例 / 佔位的 Playwright 測試入口。
+- `tests/seed.spec.ts`：範例 / 佔位的 Playwright 測試入口。
 
 ## 前置需求
 
