@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "pw": {
+      "type": "stdio",
+      "command": "npx",
+      "tools": [
+        "*"
+      ],
+      "args": [
+        "-y",
+        "playwright",
+        "run-test-mcp-server"
+      ]
+    }
+  }
+}
